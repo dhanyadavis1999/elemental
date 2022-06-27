@@ -1,0 +1,12 @@
+.row_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .row_main{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray; 
+  }
